@@ -6,7 +6,8 @@ python2.7,
 **urllib,
 **opencv,
 httplib,
-thread
+thread,
+Tkinter
 
 ### Extra files:
 haarcascade_frontalface_default.xml
