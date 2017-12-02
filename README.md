@@ -2,20 +2,20 @@
 This is a project for the Rajasthan Government Hackathon 3.
 
 ### Dependencies:
-python2.7,
-**urllib**,
-**opencv**,
-httplib,
-thread,
-Tkinter
+-python2.7
+-**urllib**
+-**opencv**
+-httplib
+-thread
+-Tkinter
 
 ### Extra files:
 haarcascade_frontalface_default.xml
 
 ### Instructions to run the software:
 
-Install all the dependencies
-**Run GUI.py file using python GUI.py command
+-Install all the dependencies
+-**Run GUI.py file using python GUI.py command
 
 ### Motion Detection Module:
 Alert the security guards if there is any motion occurred in restricted rooms
