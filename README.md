@@ -15,7 +15,7 @@ haarcascade_frontalface_default.xml
 ### Instructions to run the software:
 
 - Install all the dependencies
-- **Run GUI.py file using python GUI.py command
+- **Run GUI.py file using python GUI.py command**
 
 ### Motion Detection Module:
 Alert the security guards if there is any motion occurred in restricted rooms
