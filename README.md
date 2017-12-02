@@ -3,8 +3,8 @@ This is a project for the Rajasthan Government Hackathon 3.
 
 ### Dependencies:
 python2.7,
-**urllib,
-**opencv,
+**urllib**,
+**opencv**,
 httplib,
 thread,
 Tkinter
