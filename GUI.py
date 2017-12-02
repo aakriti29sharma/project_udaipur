@@ -18,7 +18,7 @@ class App:
         
         self.b.pack(side=LEFT)
         self.button = Button(self.frame, 
-                         text="Exit Module", fg="red",
+                         text="Exit Module", fg="red",width=5,height=5,
                          command=self.close_window)
         self.button.pack(side=RIGHT)
         self.c = Button(self.frame, text = 'Emotions',bg="yellow",width=10,height=5, command = self.emotions)
@@ -33,7 +33,7 @@ root = Tk.Tk()
 background_image=Tk.PhotoImage(file="motion.gif")
 background_label = Tk.Label(root, image=background_image)
 background_label.place(x=10, y=0, relwidth=1, relheight=1)
-root.wm_geometry("600x400+40+60")
+root.wm_geometry("500x450+40+60")
 root.title('Motion Detector')
 
 app = App(root)
