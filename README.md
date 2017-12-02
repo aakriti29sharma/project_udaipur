@@ -17,10 +17,12 @@ haarcascade_frontalface_default.xml
 - Install all the dependencies
 - **Run GUI.py file using python GUI.py command**
 
-### Motion Detection Module:
-Alert the security guards if there is any motion occurred in restricted rooms
-Sensitive to small changes in images.
-Compares gray version of the image with itself using XOR operation on every pixel to find the difference in two consecutive images
+## Modules:
 
-### Emotion,Age,Gender Detection:
-Incase of any attack on female person, an alarm will be raised and local security guards are informed about the activity.
+- ### Motion Detection Module:
+Alert the security guards if there is any motion occurred in restricted rooms.
+Sensitive to small changes in images.
+Compares gray version of the image with itself using XOR operation on every pixel to find the difference in two consecutive images.
+
+- ### Emotion,Age,Gender Detection:
+Incase of any attack on female person, an alarm will be raised and local security guards are informed about the activity on android application.
