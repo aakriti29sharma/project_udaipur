@@ -26,3 +26,6 @@ Compares gray version of the image with itself using XOR operation on every pixe
 
 - ### Emotion,Age,Gender Detection:
 Incase of any attack on female person, an alarm will be raised and local security guards are informed about the activity on android application.
+
+
+**The Android application repo for this project is: https://github.com/anigupta1121/Project_Udaipur_App**
