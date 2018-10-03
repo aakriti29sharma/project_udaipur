@@ -6,8 +6,8 @@ This is a project for the Rajasthan Government Hackathon 3.
 - **urllib**
 - **opencv**
 - httplib
-- thread
-- Tkinter
+- **thread
+- **Tkinter
 
 ### Extra files:
 haarcascade_frontalface_default.xml
